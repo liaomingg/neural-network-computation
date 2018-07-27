@@ -3,7 +3,7 @@
 
 def unpack(item):
     '''
-    unpack parameter
+    @function: unpack parameter
     '''
     if list == type(item):
         if len(item) == 2:
